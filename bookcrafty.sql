@@ -279,6 +279,3 @@ INSERT INTO `item_pedido` (`id_item_pedido`, `fk_pedido`, `fk_produto`) VALUES
 (15, 9, 2),
 (16, 10, 1),
 (17, 10, 2);
-
--- --------------------------------------------------------
-
